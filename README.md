@@ -1,1 +1,1 @@
-# Web Scraping and Analyzing WSB (/r/WallStreetBets) 🌑🚀🚀🚀
+# Web Scraping and Analyzing Yahoo Finance 🌑🚀🚀🚀
